@@ -1,0 +1,5 @@
+derivar(ln(x/(x+1)), D)
+derivar(sin(exp(3*x)), D)
+derivar(ln(sin((x+1)/x)), D)
+derivar((x^5+x^3)/(x^2+1), D)
+derivar(arctan(((x^2)+1)^10), D)
